@@ -73,6 +73,8 @@ patience            Early stopping patience
 loss                Loss function
 learning_rate       Learning rate
 itr                 Number of experiments
+sid_10              Spatial impact degree
+data                Dataset type
 ```
 
 ## Dataset
