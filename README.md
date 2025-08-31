@@ -19,7 +19,7 @@ The main package versions used in RLSASTTE are as follows:
 - torch==1.12.0
 - tqdm==4.66.1
 
-## Running Method
+## Running Instructions
 ```
 python run.py
 ```
