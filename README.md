@@ -44,5 +44,5 @@ pip install -r requirements.txt
 We appreciate the availability of these public datasets, which can be accessed through the following sources.
 
 - The Milan Telecom Dataset is available at https://www.nature.com/articles/sdata201555.
-- https://www.kaggle.com/code/guiyihan/base-station-traffic-eda-hangzhou.
-- https://ieee-dataport.org/documents/5g-traffic-datasets.
+- The Hangzhou Base Station Dataset is available at https://www.kaggle.com/code/guiyihan/base-station-traffic-eda-hangzhou.
+- The 5G Traffic Dataset is available at https://ieee-dataport.org/documents/5g-traffic-datasets.
