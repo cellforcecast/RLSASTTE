@@ -32,31 +32,31 @@ To run the code on different datasets, the corresponding parameters need to be m
 ## Code Structure
 ```
 RLSASTTE
-│ data_provider        
-│    │data_factory.py
-│    │data_loader.py
+│        data_provider        
+│           │data_factory.py
+│           │data_loader.py
 │
-│ exp
-│    │exp_basic.py
-│    │exp_main.py
+│        exp
+│           │exp_basic.py
+│           │exp_main.py
 │ 
-│ layers
-│    │STAM.py
-│    │Trans_encoder.py
-│    │Embed.py
-│    │Norm.py
+│        layers
+│           │STAM.py
+│           │Trans_encoder.py
+│           │Embed.py
+│           │Norm.py
 │
-│ models
-│    │Main.py
-│    │PDSTAformer.py
+│        models
+│           │Main.py
+│           │PDSTAformer.py
 │
-│ utils
-│    │tools.py
-│    │metrics.py
-│    │masking.py
-│    │timefeatures.py
+│        utils
+│           │tools.py
+│           │metrics.py
+│           │masking.py
+│           │timefeatures.py
 │
-└─ run.py
+└─ ─ ─ ─ ─ run.py
 ```
 
 ## Main Parameters
