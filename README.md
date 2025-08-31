@@ -31,13 +31,31 @@ To run the code on different datasets, the corresponding parameters need to be m
 ## Code Structure
 ```
 RLSASTTE
-│ train.py
-│ engine.py
-│ model.py
-│ util.py
-│ requirements.txt
-│ README.md
-│ LICENSE
+│ data_provider        
+│    │data_factory.py
+│    │data_loader.py
+│
+│ exp
+│    │exp_basic.py
+│    │exp_main.py
+│ 
+│ layers
+│    │STAM.py
+│    │Trans_encoder.py
+│    │Embed.py
+│    │Norm.py
+│
+│ models
+│    │Main.py
+│    │PDSTAformer.py
+│
+│ utils
+│    │tools.py
+│    │metrics.py
+│
+└─run.py
+
+
 ```
 
 ## Main Parameters
