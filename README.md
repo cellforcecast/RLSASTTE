@@ -17,11 +17,6 @@ This repository contains the PyTorch implementation of RLSASTTE proposed in the 
 - scipy==1.11.4
 - torch==1.12.0
 - tqdm==4.66.1
-- 
-
-## Dataset
-
-一句话介绍你的项目。 
 
 ## How to run
 克隆仓库并安装依赖：
@@ -44,3 +39,7 @@ git clone https://github.com/yourname/yourrepo.git
 cd yourrepo
 pip install -r requirements.txt
 ```
+
+## Dataset
+
+The Milan Telecom Dataset is available at (https://www.kaggle.com/)
