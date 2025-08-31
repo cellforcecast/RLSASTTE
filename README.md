@@ -15,7 +15,7 @@
 
 ## 📦 Installation
 克隆仓库并安装依赖：
-```bash
+```
 git clone https://github.com/yourname/yourrepo.git
 cd yourrepo
 pip install -r requirements.txt
