@@ -42,5 +42,5 @@ pip install -r requirements.txt
 
 ## Dataset
 
--The Milan Telecom Dataset is available at https://www.kaggle.com.
+- The Milan Telecom Dataset is available at https://www.kaggle.com.
 https://www.kaggle.com/code/guiyihan/base-station-traffic-eda-hangzhou
