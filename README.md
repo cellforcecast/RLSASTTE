@@ -30,8 +30,14 @@ To run the code on different datasets, the corresponding parameters need to be m
 
 ## Code Structure
 
-一句话介绍你的项目。  
-例如：一个基于 Transformer 的时序预测模型，用于蜂窝流量预测。
+RLSASTTE
+│ train.py
+│ engine.py
+│ model.py
+│ util.py
+│ requirements.txt
+│ README.md
+│ LICENSE
 
 
 ## Main Parameters
