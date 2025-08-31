@@ -6,7 +6,7 @@
 例如：一个基于 Transformer 的时序预测模型，用于蜂窝流量预测。
 
 
-## ✨ Features
+## ✨ Requirements
 - 功能 1
 - 功能 2
 - 功能 3
