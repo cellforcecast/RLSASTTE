@@ -72,7 +72,7 @@ moving_avg          Window size of moving average
 patience            Early stopping patience
 loss                Loss function
 learning_rate       Learning rate
-itr                 Experiments times
+itr                 Number of experiments
 ```
 
 ## Dataset
