@@ -63,7 +63,8 @@ RLSASTTE
 The abbreviations and meanings of RLSASTTE parameters are as follows:
 
 ```
-
+P Input Length
+Y Prediction Length
 ```
 
 ## Dataset
