@@ -19,7 +19,7 @@
 git clone https://github.com/yourname/yourrepo.git
 cd yourrepo
 pip install -r requirements.txt
-```bash
+```
 
 # 📌 项目名称 (Project Name)
 
