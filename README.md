@@ -18,7 +18,7 @@ This repository contains the PyTorch implementation of RLSASTTE proposed in the 
 - torch==1.12.0
 - tqdm==4.66.1
 
-## How to run
+## Running Method
 克隆仓库并安装依赖：
 ```
 git clone https://github.com/yourname/yourrepo.git
@@ -26,13 +26,13 @@ cd yourrepo
 pip install -r requirements.txt
 ```
 
-## Project Name
+## Code Structure
 
 一句话介绍你的项目。  
 例如：一个基于 Transformer 的时序预测模型，用于蜂窝流量预测。
 
 
-## Installation
+## Main Parameters
 克隆仓库并安装依赖：
 ```
 git clone https://github.com/yourname/yourrepo.git
