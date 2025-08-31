@@ -19,12 +19,14 @@ This repository contains the PyTorch implementation of RLSASTTE proposed in the 
 - tqdm==4.66.1
 
 ## Running Method
-克隆仓库并安装依赖：
 ```
-git clone https://github.com/yourname/yourrepo.git
-cd yourrepo
-pip install -r requirements.txt
+python run.py
 ```
+or
+```
+python run.py --data "Call" --in_dim 1 --is_training 1 
+```
+
 
 ## Code Structure
 
