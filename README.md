@@ -65,6 +65,13 @@ The abbreviations and meanings of RLSASTTE parameters are as follows:
 ```
 P Input Length
 Y Prediction Length
+N Number of Prediction Nodes
+D Feature Dimension
+L Start Token Length
+\({\cal G}\) Cellular Traffic Graph
+H
+z
+
 ```
 
 ## Dataset
