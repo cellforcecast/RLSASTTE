@@ -21,4 +21,5 @@ cd yourrepo
 pip install -r requirements.txt
 
 
-python train.py --config configs/config.yaml
+![License](https://img.shields.io/badge/license-MIT-green)
+![Python](https://img.shields.io/badge/python-3.9-blue)
