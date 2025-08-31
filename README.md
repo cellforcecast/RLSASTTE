@@ -19,3 +19,6 @@
 git clone https://github.com/yourname/yourrepo.git
 cd yourrepo
 pip install -r requirements.txt
+
+
+python train.py --config configs/config.yaml
