@@ -63,10 +63,10 @@ RLSASTTE
 The parameters of RLSASTTE and their corresponding meanings are as follows:
 
 ```
-seq_len Input Length
-pred_len Prediction Length
-label_len Start Token Length
-d_model Feature Dimension
+seq_len             Input Length
+pred_len            Prediction Length
+label_len           Start Token Length
+d_model             Feature Dimension
 
 H
 z
