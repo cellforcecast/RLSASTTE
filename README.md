@@ -4,7 +4,7 @@
 
 This repository contains the PyTorch implementation of RLSASTTE proposed in the paper "Phased Spatial-Temporal Targeted Networks Based on Transformer and Data Augmentation for Cellular Traffic Prediction."
 
-## Environment
+## Environment Setup
 The main package versions used in RLSASTTE are as follows:
 - argparse==1.4.0
 - einops==0.7.0
@@ -77,7 +77,7 @@ sid_10              Spatial impact degree
 data                Dataset type
 ```
 
-## Dataset
+## Dataset Access
 We appreciate the availability of these public datasets, which can be accessed through the following sources.
 
 - The Milan Telecom Dataset is available at https://www.nature.com/articles/sdata201555.
