@@ -68,7 +68,11 @@ pred_len            Prediction length
 label_len           Start Token length
 d_model             Feature dimension
 n_heads             Number of heads
-moving_avg          Window size of moving averag
+moving_avg          Window size of moving average
+patience            Early stopping patience
+loss                Loss function
+learning_rate       Learning rate
+itr                 Experiments times
 ```
 
 ## Dataset
