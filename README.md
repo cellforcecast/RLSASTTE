@@ -21,7 +21,7 @@ cd yourrepo
 pip install -r requirements.txt
 ```
 
-## 🚀 项目名称 (Project Name)
+## 🚀 Project Name
 
 一句话介绍你的项目。  
 例如：一个基于 Transformer 的时序预测模型，用于蜂窝流量预测。
