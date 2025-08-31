@@ -60,7 +60,7 @@ RLSASTTE
 ```
 
 ## Main Parameters
-The abbreviations and meanings of RLSASTTE parameters are as follows:
+The parameters of RLSASTTE and their corresponding meanings are as follows:
 
 ```
 P Input Length
