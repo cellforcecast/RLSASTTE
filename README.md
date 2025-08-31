@@ -60,11 +60,10 @@ RLSASTTE
 ```
 
 ## Main Parameters
-克隆仓库并安装依赖：
+The abbreviations and meanings of RLSASTTE parameters are as follows:
+
 ```
-git clone https://github.com/yourname/yourrepo.git
-cd yourrepo
-pip install -r requirements.txt
+
 ```
 
 ## Dataset
