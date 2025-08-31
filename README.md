@@ -5,9 +5,19 @@
 This repository contains the PyTorch implementation of RLSASTTE proposed in the paper "Phased Spatial-Temporal Targeted Networks Based on Transformer and Data Augmentation for Cellular Traffic Prediction."
 
 ## Environment
+- argparse==1.4.0
+- einops==0.7.0
+- matplotlib==3.5.1
+- minepy==1.2.6
+- networkx==3.2.1
+- numpy==1.26.2
+- pandas==1.2.4
+- python==3.9.17
+- scikit-learn==1.3.0
+- scipy==1.11.4
 - torch==1.12.0
-- 功能 2
-- 功能 3
+- tqdm==4.66.1
+- 
 
 ## Dataset
 
