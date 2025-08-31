@@ -26,7 +26,7 @@ or
 ```
 python run.py --data "Call" --in_dim 1 --is_training 1 
 ```
-
+To run the code on different datasets, the corresponding parameters need to be modified, including ```--data``` and ```--in_dim```. By default, the code is set to use the Call service from the Milan Telecom Dataset. Additionally, the training or testing mode can be switched by modifying the ```--is_training``` parameter.
 
 ## Code Structure
 
