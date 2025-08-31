@@ -63,12 +63,11 @@ RLSASTTE
 The parameters of RLSASTTE and their corresponding meanings are as follows:
 
 ```
-P Input Length
-Y Prediction Length
-N Number of Prediction Nodes
-D Feature Dimension
-L Start Token Length
-\[{\cal G}\] Cellular Traffic Graph
+seq_len Input Length
+pred_len Prediction Length
+label_len Start Token Length
+d_model Feature Dimension
+
 H
 z
 
