@@ -42,4 +42,4 @@ pip install -r requirements.txt
 
 ## Dataset
 
-The Milan Telecom Dataset is available at https://www.kaggle.com
+The Milan Telecom Dataset is available at https://www.kaggle.com.
