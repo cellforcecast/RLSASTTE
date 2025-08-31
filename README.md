@@ -1,12 +1,12 @@
 # Phased Spatial-Temporal Targeted Networks Based on Transformer and Data Augmentation for Cellular Traffic Prediction
 
-# 📌 About
+# 📌 Introduction
 
 一句话描述你的项目。  
 例如：一个基于 Transformer 的时序预测模型，用于蜂窝流量预测。
 
 
-## 📦 Requirements
+## 📦 Environment
 - 功能 1
 - 功能 2
 - 功能 3
