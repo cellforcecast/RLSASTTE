@@ -2,9 +2,7 @@
 
 # 📌 Introduction
 
-一句话描述你的项目。  
-例如：一个基于 Transformer 的时序预测模型，用于蜂窝流量预测。
-
+This repository contains the PyTorch implementation of RLSASTTE proposed in the paper "Phased Spatial-Temporal Targeted Networks Based on Transformer and Data Augmentation for Cellular Traffic Prediction."
 
 ## 📦 Environment
 - 功能 1
